@@ -5,7 +5,7 @@ export const tourData = [
     img: "./img/newyork.jpeg",
     name: "new york bridge tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "New York, New York the greatest city on Earth, and also my home town.  The city that never sleeps, where you can always find something to do at anytime."
   },
   {
     id: 2,
